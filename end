@@ -24,6 +24,8 @@ ItemDataBackup2|https://files.catbox.moe/eu04ey.dat
 # https://silviozas.com/images/items.dat
 RudysURL|
 
+AddSupportForNewItemsVersion|20|1
+AddSupportForNewItemsVersion|21|1
 AddModsList|67302|`#@Miu|
 AddModsList|36299549|`#@Moniuet|
 
